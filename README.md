@@ -17,6 +17,10 @@ Una vez que hayas instalado gtts-cli, puedes usarlo en Python para convertir tex
 considere usar archivos de texto conla extensión txt, ejemplo, example.txt
 
 $ pytyon3 gtts-es.py
+
 python3 gtts-yo.py 
+
 Introduce el nombre del archivo de entrada: example.txt
+
 Introduce el nombre del archivo de salida: example.mp3
+
