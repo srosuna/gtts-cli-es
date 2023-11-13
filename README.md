@@ -18,9 +18,9 @@ considere usar archivos de texto conla extensión txt, ejemplo, example.txt
 
 $ pytyon3 gtts-es.py
 
-python3 gtts-yo.py 
-
 Introduce el nombre del archivo de entrada: example.txt
 
 Introduce el nombre del archivo de salida: example.mp3
+
+El sistema creará un archivo de audio mp3 con el texto sintetizado en una voz femenina neutra.
 
